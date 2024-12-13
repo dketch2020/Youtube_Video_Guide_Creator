@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# PyInstaller build folders
+build/
+dist/
+*.spec
+
+# Sensitive files
+config.json
+video_guide_generator.log
+
+# Other
+__pycache__/
+*.pyc
